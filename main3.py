@@ -13,4 +13,4 @@ class NewsWidget:
     def render(self):
         news = self.source.get_news()
         print(news)
-class
+class2
